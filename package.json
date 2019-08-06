@@ -27,6 +27,7 @@
     "async": "1.5.x",
     "aws-sdk": "^2.186.x",
     "bunyan": "1.8.12",
+    "dtrace-provider": "^0.8.7",
     "joi": "10.6.x",
     "lodash": "4.x.x",
     "node-uuid": "1.4.x",
